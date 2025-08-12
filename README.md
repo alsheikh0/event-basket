@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # event-basket
 A REST API for event booking platform
 =======
@@ -49,15 +49,6 @@ The application consists of three main microservices:
 3. Order Service
 
 Each service is contained in its own directory and can be run independently.
-
-## Technologies Used
-
-- Java 17
-- Spring Boot 3.2.0
-- Apache Kafka
-- MySQL
-- Docker
-- Maven
 
 ## Services
 
